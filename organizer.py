@@ -9,6 +9,10 @@ EXTENSIONES = {
     ".jpeg": "Imagenes",
     ".pdf": "Documentos",
     ".docx": "Documentos",
+    ".doc": "Documentos",
+    ".xlsx": "Documentos",
+    ".pptx": "Documentos",
+    ".exe": "Instaladores"
 }
 
 def organizar_descargas():
